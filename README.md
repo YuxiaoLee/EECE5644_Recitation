@@ -8,7 +8,7 @@ Weekly recitation sessions have been established as an additional learning resou
 
 | Week | Recitation Topic | Notebook |
 |---|---|---|
-| **Sept 14–18** | Python for ML review: NumPy, Matplotlib, pandas, intro to scikit-learn | EECE5644_Recitation/Recitation1_Python_for_ML.ipynb at main · YuxiaoLee/EECE5644_Recitation | |
+| **Sept 14–18** | Python for ML review: NumPy, Matplotlib, pandas, intro to scikit-learn | [Python Notebook](Recitation1_Python_for_ML.ipynb) | |
 | **Sept 21–25** | Linear algebra & optimization: matrix identities, eigendecomposition, determinant geometry, gradient/coordinate descent | |
 | **Sept 28–Oct 2** | Probability review + Bayesian decision theory: Bayes' rule, risk & ROC, Gaussian class-conditional classifiers | |
 | **Oct 5–9** | Parameter estimation: MLE, MAP, full-Bayesian estimation, conjugate priors | |
