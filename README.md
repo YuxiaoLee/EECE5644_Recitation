@@ -4,6 +4,8 @@
 
 Weekly recitation sessions have been established as an additional learning resource for this course. Attendance to these sessions is optional; the sessions are open to students from all three sections of the course and will be conducted by TA Yuxiao Li. He will provide Python-based software support for machine learning (ML) tools and techniques. Occasionally, he may also provide additional theoretical assistance on ML concepts. Sessions will be recorded. The first recitation will be on Sept. 17th.
 
+**Zoom Link:** https://northeastern.zoom.us/j/96827823475?pwd=HLSCI6vfuET5zSJnDDr4Q31Osz1hUL.1
+
 ## Schedule
 
 | Week | Recitation Topic | Notebook |
