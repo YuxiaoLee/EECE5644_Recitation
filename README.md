@@ -9,17 +9,17 @@ Weekly recitation sessions have been established as an additional learning resou
 ## Schedule
 
 | Week | Recitation Topic | Notebook | Recording |
-|---|---|---|
-| **Sept 14–18** | Python for ML review: NumPy, Matplotlib, pandas, intro to scikit-learn | [Python Notebook](Recitation1_Python_for_ML.ipynb) | ||
-| **Sept 21–25** | Linear algebra & optimization: matrix identities, eigendecomposition, determinant geometry, gradient/coordinate descent | [Python Notebook](Recitation2.ipynb) |
-| **Sept 28–Oct 2** | Probability review + Bayesian decision theory: Bayes' rule, risk & ROC, Gaussian class-conditional classifiers | ||
-| **Oct 5–9** | Parameter estimation: MLE, MAP, full-Bayesian estimation, conjugate priors | ||
-| **Oct 12–16** | Naive Bayes classifiers: Gaussian NB, categorical/multinomial NB | ||
-| **Oct 19–23** | Linear regression from scratch: OLS closed form, MLE = LSE; Regularization: Ridge & Lasso, bias-variance tradeoff, cross-validation | ||
-| **Oct 26–30** | Classification models II: Logistic regression, classifier evaluation (ROC/AUC, precision/recall/F1, calibration) | ||
-| **Nov 2–6** | Nonparametric methods: KNN (regression + classification), LDA/QDA | ||
-| **Nov 9–13** | Neural networks: MLP fundamentals, backprop intuition, softmax/cross-entropy, intro CNNs | ||
-| **Nov 16–20** | Decision trees & ensemble methods (bagging/boosting) | ||
-| *(Nov 23–27 — Thanksgiving, no recitation)* | | ||
-| **Nov 30–Dec 4** | Unsupervised learning: K-means and the EM algorithm for Gaussian Mixture Models | ||
-| **Dec 7–11** | Support Vector Machines + PCA | ||
+|---|---|---|---|
+| **Sept 14–18** | Python for ML review: NumPy, Matplotlib, pandas, intro to scikit-learn | [Python Notebook](Recitation1_Python_for_ML.ipynb) | |
+| **Sept 21–25** | Eigenvalue decomposition, multivariate Gaussians, hyperplanes & halfspaces | [Python Notebook](Recitation2.ipynb) | |
+| **Sept 28–Oct 2** | Probability review + Bayesian decision theory: Bayes' rule, risk & ROC, Gaussian class-conditional classifiers | | |
+| **Oct 5–9** | Parameter estimation: MLE, MAP, full-Bayesian estimation, conjugate priors | | |
+| **Oct 12–16** | Naive Bayes classifiers: Gaussian NB, categorical/multinomial NB | | |
+| **Oct 19–23** | Linear regression from scratch: OLS closed form, MLE = LSE; regularization: Ridge & Lasso, bias-variance tradeoff, cross-validation | | |
+| **Oct 26–30** | Classification models II: Logistic regression, classifier evaluation (ROC/AUC, precision/recall/F1, calibration) | | |
+| **Nov 2–6** | Nonparametric methods: KNN (regression + classification), LDA/QDA | | |
+| **Nov 9–13** | Neural networks: MLP fundamentals, backprop intuition, softmax/cross-entropy, intro CNNs | | |
+| **Nov 16–20** | Decision trees & ensemble methods (bagging/boosting) | | |
+| *(Nov 23–27 — Thanksgiving, no recitation)* | | | |
+| **Nov 30–Dec 4** | Unsupervised learning: K-means and the EM algorithm for Gaussian Mixture Models | | |
+| **Dec 7–11** | Support Vector Machines + PCA | | |
