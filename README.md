@@ -8,7 +8,7 @@ Weekly recitation sessions have been established as an additional learning resou
 
 ## Schedule
 
-| Week | Recitation Topic | Notebook | Recording
+| Week | Recitation Topic | Notebook | Recording |
 |---|---|---|
 | **Sept 14–18** | Python for ML review: NumPy, Matplotlib, pandas, intro to scikit-learn | [Python Notebook](Recitation1_Python_for_ML.ipynb) | |
 | **Sept 21–25** | Linear algebra & optimization: matrix identities, eigendecomposition, determinant geometry, gradient/coordinate descent | [Python Notebook](Recitation2.ipynb) |
