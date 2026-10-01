@@ -12,7 +12,7 @@ Weekly recitation sessions have been established as an additional learning resou
 |---|---|---|---|
 | **Sept 14–18** | Python for ML review: NumPy, Matplotlib, pandas, intro to scikit-learn | [Python Notebook](Recitation1_Python_for_ML.ipynb) | [Recording](https://northeastern-my.sharepoint.com/:v:/g/personal/li_yuxiao_northeastern_edu/IQDHZBcLgiosTKgVCecfYE26AcQlT-ByGlrC0-7qu2AmbKY) |
 | **Sept 21–25** | Eigenvalue decomposition, multivariate Gaussians, hyperplanes & halfspaces | [Python Notebook](Recitation2.ipynb) | [Recording](https://northeastern-my.sharepoint.com/:v:/g/personal/sioannidis_northeastern_edu/IQBddIq8VQyaRp7eOhmHbNK0AQuI3ZMYo4npHMf5-4gHoak?e=PMUrW1) |
-| **Sept 28–Oct 2** | Probability review + Bayesian decision theory: Bayes' rule, risk & ROC, Gaussian class-conditional classifiers | | |
+| **Sept 28–Oct 2** | Probability review + Bayesian decision theory: Bayes' rule, risk & ROC, Gaussian class-conditional classifiers | [Python Notebook](Recitation3.ipynb)| |
 | **Oct 5–9** | Parameter estimation: MLE, MAP, full-Bayesian estimation, conjugate priors | | |
 | **Oct 12–16** | Naive Bayes classifiers: Gaussian NB, categorical/multinomial NB | | |
 | **Oct 19–23** | Linear regression from scratch: OLS closed form, MLE = LSE; regularization: Ridge & Lasso, bias-variance tradeoff, cross-validation | | |
